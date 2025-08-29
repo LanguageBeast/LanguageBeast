@@ -22,10 +22,12 @@
     <p><strong>UNO Game in JavaScript:</strong> My UNO game project <a href="https://github.com/LanguageBeast/js-UNO-game">here</a> where I implemented the card game with JavaScript.</p>
     <p><strong>Web App for CEDICA, geared towards the disabled:</strong> An equestrian Web App <a href="#">here</a>, implemented with Python And Vue.js.</p>
     <p><strong>An Exchange of used/broken goods web app:</strong> Tailored for a DIY stores entrepeneur <a href="#">here</a>, implemented with .NET.</p>
+    <p><strong>A clothes' store web app:</strong> Tailored for a apparel stores entrepeneur <a href="#">here</a>, implemented with RUBY.</p>
     <h2>Contact</h2>
     <ul>
         <li><strong>Email:</strong> <a href="mailto:genkidamh01@gmail.com">genkidamh01@gmail.com</a></li>
     </ul>
     <p>Thanks for visiting my profile.</p>
 </div>
+
 
